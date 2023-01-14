@@ -23,28 +23,29 @@ public class Bag {
         this.invitation = invitation;
     }
 
+    public Long hold(Ticket ticket) {
+        if (hasInvitation()) {
+            setTicket(ticket);
+            return 0L;
+        } else {
+            setTicket(ticket);
+            minusAmount(ticket.getFee());
+            return ticket.getFee();
+        }
+    }
+
     // 초대장의 보유 여부를 판단하는 메서드
-    public boolean hasInvitation() {
+    private boolean hasInvitation() {
         return invitation != null;
     }
 
-    // 티켓의 소유 여부를 판단하는 메서드
-    public boolean hasTicket() {
-        return ticket != null;
-    }
-
     // 초대장을 티켓으로 교환하는 메서드
-    public void setTicket(Ticket ticket) {
+    private void setTicket(Ticket ticket) {
         this.ticket = ticket;
     }
 
     // 현금을 감소 메서드
-    public void minusAmount(Long amount) {
+    private void minusAmount(Long amount) {
         this.amount -= amount;
-    }
-
-    // 현금을 증가 메서드
-    public void plusAmount(Long amount) {
-        this.amount += amount;
     }
 }

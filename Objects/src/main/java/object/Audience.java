@@ -8,7 +8,8 @@ public class Audience {
         this.bag = bag;
     }
 
-    public Bag getBag() {
-        return bag;
+    // 인자로 전달된 Ticket을 Bag에 넣은 후 지불된 금액을 반환
+    public Long buy(Ticket ticket) {
+        return bag.hold(ticket);
     }
 }
