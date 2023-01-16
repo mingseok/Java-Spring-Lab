@@ -1,4 +1,4 @@
-package object;
+package object.ticket;
 
 // 관람객 -> 소지품을 보관하기 위한 클래스
 public class Audience {

@@ -1,4 +1,7 @@
-package object;
+package object.ticket;
+
+import object.ticket.Audience;
+import object.ticket.Ticket;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package object;
+package object.ticket;
 
 /**
  * 극장(메인)을 구현하는 클래스이다.

@@ -1,4 +1,4 @@
-package object;
+package object.ticket;
 
 /**
  * 소지품을 보관할 클래스.

@@ -1,4 +1,4 @@
-package object;
+package object.ticket;
 
 import java.time.LocalDate;
 
