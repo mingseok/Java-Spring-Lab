@@ -2,12 +2,13 @@ package object.movie;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public abstract class DiscountPolicy {
     private List<DiscountCondition> conditions = new ArrayList<>();
 
-    public DiscountPolicy(DiscountPolicy... conditions) {
-        this.conditions = Arrays.asList(conditions);
+    public DiscountPolicy(List<DiscountCondition> conditions) {
+        this.conditions = Arrays.asList((DiscountCondition) conditions);
     }
 
     public Money calculateDiscountAmount(Screening screening) {

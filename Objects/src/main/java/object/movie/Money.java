@@ -19,17 +19,14 @@ public class Money {
         return new Money(BigDecimal.valueOf(amount));
     }
 
-    // add() 더하기 메서드
     public Money plus(Money amount) {
         return new Money(this.amount.add(amount.amount));
     }
 
-    // subtract() 빼기 메서드
     public Money minus(Money amount) {
         return new Money(this.amount.subtract(amount.amount));
     }
 
-    // multiply() 곱하는 메서드
     public Money times(double percent) {
         return new Money(this.amount.multiply(BigDecimal.valueOf(percent)));
     }
