@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.*;
+
 import static java.util.stream.Collectors.toList;
 
 public class Menu {
