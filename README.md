@@ -4,6 +4,11 @@
 >학습한 내용을 작성해보고, 또 다른 예제를 직접 만들어 보며, 관련 경험을 기록으로 남긴다. <br/>
 ---
 
+### Lambda-Stream
+- Lambda, Stream을 사용하여 직접 예제를 만들어 보며 코드 + 보충 설명을 저장하는 곳
+- [LINK](https://github.com/mingseok/Java-Spring-Lab/tree/main/Lambda-Stream)<br/>
+
+
 ### Objects
 - 오브젝트 책을 읽고, 책에 나오는 예제 혹은 이해를 위한 코드를 저장하는 곳.
 - [LINK](https://github.com/mingseok/Java-Spring-Lab/tree/main/Objects)<br/>
