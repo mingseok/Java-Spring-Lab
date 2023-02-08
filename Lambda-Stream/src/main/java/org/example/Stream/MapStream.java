@@ -2,7 +2,7 @@ package org.example.Stream;
 
 import java.util.HashMap;
 
-public class MapEx1 {
+public class MapStream {
     public static void main(String[] args) {
         HashMap<String, Integer> map = new HashMap<>();
         map.put("a", 1);
@@ -16,9 +16,9 @@ public class MapEx1 {
 //        }
 
         map.keySet().stream()
-                    .forEach(System.out::println);
+                    .forEach(System.out::print); // a b c d
 
         map.values().stream()
-                    .forEach(System.out::println);
+                    .forEach(System.out::print); // 1 2 3 4
     }
 }

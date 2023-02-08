@@ -2,7 +2,7 @@ package org.example.Lambda;
 
 import java.util.HashMap;
 
-public class MapEx1 {
+public class MapLambda {
     public static void main(String[] args) {
         HashMap<String, Integer> map = new HashMap<>();
         map.put("a", 1);
@@ -16,9 +16,9 @@ public class MapEx1 {
 //        }
 
         map.keySet().stream()
-                    .forEach(k -> System.out.println(k));
+                    .forEach(k -> System.out.println(k)); // a b c d
 
         map.values().stream()
-                    .forEach(v -> System.out.println(v));
+                    .forEach(v -> System.out.println(v)); // 1 2 3 4
     }
 }

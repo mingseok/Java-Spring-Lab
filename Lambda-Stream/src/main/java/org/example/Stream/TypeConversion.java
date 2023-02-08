@@ -11,7 +11,7 @@ public class TypeConversion {
         // 클래스이름 다시 말해 뭐다? -> 타입이다.
         Function<String, Integer> number2 = Integer::parseInt;
 
-        System.out.println(number1.apply("100") + 200);
+        System.out.println(number1.apply("100") + 200); // 300
     }
 }
 
