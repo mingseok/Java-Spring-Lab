@@ -15,8 +15,12 @@ public class MapStream {
 //            System.out.println(x.getValue());
 //        }
 
+        map.forEach((key, value) -> System.out.println(key + " " + value));
+
+
         map.keySet().stream()
                     .forEach(System.out::print); // a b c d
+
 
         map.values().stream()
                     .forEach(System.out::print); // 1 2 3 4
