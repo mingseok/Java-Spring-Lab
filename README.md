@@ -5,12 +5,17 @@
 ---
 
 ### 스프링 핵심 원리 - 기본편
-- 스프링 핵심 원리 기본편 강의를 들으면서 실습한 폴더
+- 김영한님 스프링 핵심 원리 - 기본편 강의를 들으면서 이해를 위한 코드를 저장하는 곳
+- [LINK](https://github.com/mingseok/springConvention)<br/>
+
+
+### 스프링 입문 
+- 김영한님 스프링 입문 강의를 들으면서 이해를 위한 코드를 저장하는 곳
 - [LINK](https://github.com/mingseok/Java-Spring-Lab/tree/main/helloSpring)<br/>
 
 
 ### Java 8
-- 백기선님 더 자바, Java 8 강의를 들으면서 실습한 폴더
+- 백기선님 더 자바, Java 8 강의를 들으면서 이해를 위한 코드를 저장하는 곳
 - [LINK](https://github.com/mingseok/Java-Spring-Lab/tree/main/Java-8)<br/>
 
 
