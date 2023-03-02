@@ -1,12 +1,14 @@
 package com.example.hellospring.repository;
 
 import com.example.hellospring.domain.Member;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.*;
 
+@ResponseBody
 public class MemoryMemberRepository implements MemberRepository {
 
-    private static Map<Long, Member> store = new HashMap<>(); // DB
+    private static Map<Long, Member> store = new HashMap<>(); // 저장소
     private static Long sequence = 0L; // 시퀀스
 
     @Override
