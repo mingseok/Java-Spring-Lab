@@ -4,18 +4,23 @@
 >학습한 내용을 작성해보고, 또 다른 예제를 직접 만들어 보며, 관련 경험을 기록으로 남긴다. <br/>
 ---
 
+### 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
+- 김영한님의 스프링 MVC 1편 - MVC 1편 강의를 들으면서 이해를 위한 코드를 저장하는 곳
+- [LINK](https://github.com/mingseok/SpringMvc)<br/>
+
+
 ### 스프링 핵심 원리 - 기본편
-- 김영한님 스프링 핵심 원리 - 기본편 강의를 들으면서 이해를 위한 코드를 저장하는 곳
+- 김영한님의 스프링 핵심 원리 - 기본편 강의를 들으면서 이해를 위한 코드를 저장하는 곳
 - [LINK](https://github.com/mingseok/springConvention)<br/>
 
 
 ### 스프링 입문 
-- 김영한님 스프링 입문 강의를 들으면서 이해를 위한 코드를 저장하는 곳
+- 김영한님의 스프링 입문 강의를 들으면서 이해를 위한 코드를 저장하는 곳
 - [LINK](https://github.com/mingseok/Java-Spring-Lab/tree/main/helloSpring)<br/>
 
 
 ### Java 8
-- 백기선님 더 자바, Java 8 강의를 들으면서 이해를 위한 코드를 저장하는 곳
+- 백기선님의 더 자바, Java 8 강의를 들으면서 이해를 위한 코드를 저장하는 곳
 - [LINK](https://github.com/mingseok/Java-Spring-Lab/tree/main/Java-8)<br/>
 
 
