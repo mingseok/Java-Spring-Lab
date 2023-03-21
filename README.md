@@ -6,9 +6,11 @@
 
 스프링 MVC 1편, 2편 - 백엔드 웹 개발 핵심 기술
 - 김영한님의 스프링 MVC 1편, 2편 - MVC 1편, 2편 강의를 들으면서 이해를 위한 코드를 저장하는 곳
-- [LINK: 1-1](https://github.com/mingseok/SpringMvc)<br/>
+
+- [LINK: 2-2](https://github.com/mingseok/exception)<br/>
+- [LINK: 2-1](https://github.com/mingseok/practice-mvc)<br/>
 - [LINK: 1-2](https://github.com/mingseok/spring-mvc-basic)<br/>
-- [LINK: 2](https://github.com/mingseok/practice-mvc)<br/>
+- [LINK: 1-1](https://github.com/mingseok/SpringMvc)<br/>
 
 
 스프링 핵심 원리 - 기본편
