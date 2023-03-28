@@ -4,9 +4,15 @@
 >학습한 내용을 작성해보고, 또 다른 예제를 직접 만들어 보며, 관련 경험을 기록으로 남긴다. <br/>
 ---
 
+
+스프링 DB편 - 데이터 접근 활용 기술
+- 김영한님의 스프링 DB편 강의를 들으면서 이해를 위한 코드를 저장하는 곳
+- [LINK](https://github.com/mingseok/itemservice-db)<br/>
+
+
+
 스프링 MVC 1편, 2편 - 백엔드 웹 개발 핵심 기술
 - 김영한님의 스프링 MVC 1편, 2편 - MVC 1편, 2편 강의를 들으면서 이해를 위한 코드를 저장하는 곳
-
 - [LINK: 2-2](https://github.com/mingseok/exception)<br/>
 - [LINK: 2-1](https://github.com/mingseok/practice-mvc)<br/>
 - [LINK: 1-2](https://github.com/mingseok/spring-mvc-basic)<br/>
