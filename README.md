@@ -7,7 +7,9 @@
 
 스프링 DB편 - 데이터 접근 활용 기술
 - 김영한님의 스프링 DB편 강의를 들으면서 이해를 위한 코드를 저장하는 곳
-- [LINK](https://github.com/mingseok/itemservice-db)<br/>
+- [LINK: 1](https://github.com/mingseok/itemservice-db)<br/>
+- [LINK: 2](https://github.com/mingseok/springTransactional)<br/>
+
 
 
 
